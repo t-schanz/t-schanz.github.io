@@ -27,7 +27,7 @@ github:
   color : 333333
 
 gitlab:
-  url   : https://www.gitlab.com/
+  url   : https://codebase.helmholtz.cloud/
   icon  : fab fa-gitlab
   color : fca326
 
@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+xing:
+  url   : https://www.xing.com/profile/
+  icon  : fab fa-xing
+  color : 126567
