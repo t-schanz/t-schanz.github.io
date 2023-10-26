@@ -12,7 +12,5 @@ external_url:
 - [x] [Device availability viewer](http://bcoweb.mpimet.mpg.de/systems/data_availability/DeviceAvailability.html)
 - [x] Plankton Paper
 - [ ] Energy Hackathon
-- [ ] Slurm resource monitor
-- [ ] Tutorial for Lightning profiling
-- [ ] Async download and extract packaged data
+- [x] Slurm resource monitor
 - [ ] mdml-tools

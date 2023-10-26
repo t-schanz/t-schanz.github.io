@@ -18,3 +18,4 @@ external_url:
 - [ ] How to document your code with sphinx (Complete setup I used for the mdml-tools)
 - [ ] How to upload a package to PyPi
 - [ ] Neuromatch Academy
+- [ ] Async download and extract packaged data

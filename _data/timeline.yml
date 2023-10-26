@@ -1,4 +1,5 @@
-- title: <span style="color:#007BFF">Open to Work from August 2024</span>
+- title: >- 
+        :rocket: <span style="color:#007BFF">Open to Work from August 2024</span> :rocket:
   from: <span style="color:#007BFF">August 2024</span>
   to: <span style="color:#007BFF">Open</span>
   description: <span style="color:#007BFF">I will finish my PhD probably in June 2024. After that I am open to work in 
@@ -15,7 +16,8 @@
               or  <b><a href="https://www.linkedin.com/in/tobias-schanz">LinkedIn</a></b>.
               </span>
 
-- title: PhD Student at Helmholtz-Zentrum hereon
+- title: >- 
+        :mortar_board: PhD Student at Helmholtz-Zentrum hereon
   from: 2020
   to: July 2024
   description: At the moment I am a PhD student at the Helmholtz-Zentrum hereon. My PhD is about finding new ways 
@@ -49,7 +51,8 @@
             AKRA was how to communicate my results in a structured way, but I realized that I wanted to focus 
             more on machine learning and less on data engineering.
 
-- title: M.Sc. Meteorology at the University of Hamburg
+- title: >- 
+        :mortar_board: M.Sc. Meteorology at the University of Hamburg
   from: 2017
   to: 2019
   description: During my master studies I was given a lot more freedom in the courses to take than during the bachelors
@@ -68,7 +71,8 @@
             </figcaption>
             </figure>
 
-- title: Research Cruise Over the Pacific Ocean
+- title: >- 
+        Research Cruise Over the Pacific Ocean :sailboat:
   from: 2019
   to: 2019
   description: I had the chance to participate in a six week long research cruise over the pacific ocean from Vancouver 
@@ -88,7 +92,8 @@
               developed a lot of useful tools for the scientists. Check out some of them in the <a href="../projects">projects</a> section.
 
 
-- title: B.Sc. Meteorology at the University of Hamburg
+- title: >- 
+        :mortar_board: B.Sc. Meteorology at the University of Hamburg
   from: 2014
   to: 2018
   description: I was a student at the University of Hamburg from 2014 to 2018. I studied meteorology and wrote my 
