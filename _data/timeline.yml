@@ -32,9 +32,36 @@
 - title: M.Sc. Meteorology at the University of Hamburg
   from: 2017
   to: 2019
-  description: TODO
+  description: During my master studies I was given a lot more freedom in the courses to take than during the bachelors
+            and so I found myself sitting in a lot of high performance computing and big data lectures. This led me to
+            write my master thesis about the application of convolutional neural networks for processing raw radar
+            measurements into radar echo maps. I found a way to train the neural network on synthetic data and then
+            apply it to real world data. In the end, my model even outperformed the operational algorithm from the 
+            University of Hamburg.
+            
+            <figure>
+            <img src="../assets/images/MasterResults.png" alt="Master Results" width="700"/>
+            <figcaption> The left image shows the result of my CNN, the right image shows the result of the operational
+            algorithm. The CNN is able to resolve the structure of the precipitation much better than the operational
+            algorithm.  
+  
+            </figcaption>
+            </figure>
+
 
 - title: B.Sc. Meteorology at the University of Hamburg
   from: 2014
   to: 2018
-  description: TODO
+  description: I was a student at the University of Hamburg from 2014 to 2018. I studied meteorology and wrote my 
+              bachelor thesis about a new retrieval method for the estimation of water vapor in the atmosphere by using
+              a combination of a radiation model (PSRad) and surface based measurements from the NASA (AERONET).
+              To be fair, the retrieval did not work very well but I learnt how to set up a research project, how to
+              work with unstructured data, how a radiation model works and how to write a scientific report.
+    
+              <figure>
+              <img src="../assets/images/BachelorResults.png" alt="Bachelor Results" width="700"/>
+              <figcaption> Using different atmospheric profiles in the radiation model for the retrieval, I show how my algorithm
+                        performs compared to direct measurements from NASA. BSRN is my algorithm, AERONET is the NASA
+                        measurement.
+              </figcaption>
+              </figure>
