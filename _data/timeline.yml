@@ -1,38 +1,31 @@
-- title: <span style="color:#007BFF">Open to work</span>
+- title: <span style="color:#007BFF">Open to Work</span>
   from: <span style="color:#007BFF">July 2024</span>
   to: <span style="color:#007BFF">Open</span>
   description: Make text like, if you are reading this and find my profile fitting for an opening you have in your 
               company, please contact me.
 
-- title: PhD student at Helmholtz-Zentrum hereon
+- title: PhD Student at Helmholtz-Zentrum hereon
   from: 2020
   to: July 2024
   description: TODO
 
-- title: Free data science contractor
+- title: Free Data Science Contractor
   from: 2020
   to: 2021
-  description: Describe that I was asked by a B2B company from hamburg to do some data science tasks.
+  description: From contact, which I got to know during my time at AKRA, I was asked by a B2B company from hamburg to help them
+          in integrating their data into a new management software. I was able to help them with the data integration
+          and also with the development of a new data pipeline to structure their data in an efficient way.
 
-- title: Data science consultant at AKRA GmbH
+- title: Data Science Consultant at AKRA GmbH
   from: 2019
   to: 2020
-  description: TODO
-
-- title: Max-Planck-Institute for Meteorology
-  from: 2016
-  to: 2019
-  description: Add that student worker and mainly data-science tasks were performed.
-
-- title: Research Vessel Cruise
-  from: 2019
-  to: 2019
-  description: I had the chance to participate in a research cruise over the pacific ocean from Vancouver (Canada) to 
-              Singapore. There were two projects on board of the ship "Sonne". The first was about microplastic in the 
-              ocean, the second
-              was about onboard radiation measurements. I was part of the radiation team and we were able to collect
-              a lot of useful data that could later be used to verify satellite measurements. An overview of the cruise
-              can be found <a href="https://www.ldf.uni-hamburg.de/en/sonne/wochenberichte/wochenberichte-sonne/so267-2-268-3/so268-3-scr.pdf">here</a>.
+  description: After finishing my Masters I started working as a data scientist at AKRA. I worked on multiple projects
+            for different customers, but my tasks mainly included data quality assurance, data analysis and 
+            visualization, in terms of dashboards and reports. The few machine-learning tasks I worked on were mostly
+            simple clustering (DBSCAN) and outlier detection (Isolation Forest). During this time I learnt a lot about
+            databases (InfluxDB, PostgreSQL) and object relational mapping (SQLAlchemy). The main takeaway from this
+            time for me was how to communicate my results in a structured way, but I realized that I wanted to focus 
+            more on machine learning and less on data engineering.
 
 - title: M.Sc. Meteorology at the University of Hamburg
   from: 2017
@@ -52,6 +45,25 @@
   
             </figcaption>
             </figure>
+
+- title: Research Cruise Over the Pacific Ocean
+  from: 2019
+  to: 2019
+  description: I had the chance to participate in a six week long research cruise over the pacific ocean from Vancouver 
+              (Canada) to 
+              Singapore, as a student helper for the Max-Planck-Institute for Meteorology. There were two projects on 
+              board of the ship "Sonne". The first was about microplastic in the ocean, the second
+              was about onboard radiation measurements. I was part of the radiation team and we were able to collect
+              a lot of useful data that could later be used to verify satellite measurements. An overview of the cruise
+              can be found <a href="https://www.ldf.uni-hamburg.de/en/sonne/wochenberichte/wochenberichte-sonne/so267-2-268-3/so268-3-scr.pdf">here</a>.
+
+- title: Max-Planck-Institute for Meteorology
+  from: 2016
+  to: 2019
+  description: Nearly all the time during my studies I was working as a student helper at the Max-Planck-Institute for
+              Meteorology. I started out doing smaller tasks like optimizing Python routines in terms of speed and
+              memory usage. Later on I was able to work on my own projects, was in charge for data integrity and 
+              developed a lot of useful tools for the scientists. Check out some of them in the <a href="../projects">projects</a> section.
 
 
 - title: B.Sc. Meteorology at the University of Hamburg
