@@ -14,3 +14,4 @@ external_url:
 - [ ] Energy Hackathon
 - [x] Slurm resource monitor
 - [ ] mdml-tools
+- [x] MPI Live quicklook
