@@ -26,6 +26,10 @@
   percentage: 40
   color: secondary
 
+- name: SQL / SQLAlchemy
+  percentage: 50
+  color: danger
+
 - name: Docker
   percentage: 40
   color: primary

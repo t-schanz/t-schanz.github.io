@@ -29,11 +29,10 @@ If you want to know more about the project have a look at the paper.
 
 Schanz, T., Möller, K. O., Rühl, S., & Greenberg, D. S. (2023). 
 **Robust detection of marine life with label-free image feature learning and probability calibration.**
-Machine Learning: Science and Technology, 4(3), 035007. https://doi.org/10.1088/2632-2153/ace417
+Machine Learning: Science and Technology, 4(3), 035007.
+[https://doi.org/10.1088/2632-2153/ace417](https://doi.org/10.1088/2632-2153/ace417)
 
-
-<p class="text-center">
-{% include elements/button.html link="https://www.doi.org/10.1088/2632-2153/ace417" text="Go to paper" %}
-</p>
+<br>
+<br>
 
 {% include elements/figure.html image="../assets/images/projects/PlanktonExperimentsStructure.png" caption="" %}

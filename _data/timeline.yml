@@ -1,13 +1,32 @@
-- title: <span style="color:#007BFF">Open to Work</span>
-  from: <span style="color:#007BFF">July 2024</span>
+- title: <span style="color:#007BFF">Open to Work from August 2024</span>
+  from: <span style="color:#007BFF">August 2024</span>
   to: <span style="color:#007BFF">Open</span>
-  description: Make text like, if you are reading this and find my profile fitting for an opening you have in your 
-              company, please contact me.
+  description: <span style="color:#007BFF">I will finish my PhD probably in June 2024. After that I am open to work in 
+              the field of machine learning, deep learning
+              and data science. I am particularly interested to continue working on the development of deep neural 
+              networks, because this
+              is where my expertise lies. <b>I am not interested in a role where I am just responsible to move data from 
+              A to B or where the main task is to find a way on how to deal with your messy excel files. </b> 
+              <br>
+              <br>
+              If you are 
+              interested in working with me, please reach out to me via 
+              <b><a href="mailto:tobias.machnitzki@hereon.de">email</a></b>
+              or  <b><a href="https://www.linkedin.com/in/tobias-schanz">LinkedIn</a></b>.
+              </span>
 
 - title: PhD Student at Helmholtz-Zentrum hereon
   from: 2020
   to: July 2024
-  description: TODO
+  description: At the moment I am a PhD student at the Helmholtz-Zentrum hereon. My PhD is about finding new ways 
+              to train generative neural networks with the goal of controlling statistical properties of not only 
+              the predictions of each ensemble member but also of the ensemble as a whole. This is important because 
+              the predictions of the ensemble members are often used to estimate the uncertainty of the prediction. 
+              If the ensemble members are not diverse enough, the uncertainty estimate will be too low. This can lead 
+              to wrong decisions and potentially to wrong actions. <br>
+              <br>
+              I also work on a project about semi-supervised learning, which I explain in more detail in the 
+                <a href="../projects/4-semi-suppervised-learning-for-marine-biology">projects</a> section.
 
 - title: Free Data Science Contractor
   from: 2020
@@ -23,8 +42,11 @@
             for different customers, but my tasks mainly included data quality assurance, data analysis and 
             visualization, in terms of dashboards and reports. The few machine-learning tasks I worked on were mostly
             simple clustering (DBSCAN) and outlier detection (Isolation Forest). During this time I learnt a lot about
-            databases (InfluxDB, PostgreSQL) and object relational mapping (SQLAlchemy). The main takeaway from this
-            time for me was how to communicate my results in a structured way, but I realized that I wanted to focus 
+            databases (InfluxDB, PostgreSQL) and object relational mapping (SQLAlchemy). I also took on tasks that did
+            not directly involve data science, like creating simple APIs and such. <br>
+            <br>
+            The main takeaway from my time at 
+            AKRA was how to communicate my results in a structured way, but I realized that I wanted to focus 
             more on machine learning and less on data engineering.
 
 - title: M.Sc. Meteorology at the University of Hamburg
@@ -60,7 +82,7 @@
 - title: Max-Planck-Institute for Meteorology
   from: 2016
   to: 2019
-  description: Nearly all the time during my studies I was working as a student helper at the Max-Planck-Institute for
+  description: Nearly all the time during my studies, I was working as a student helper at the Max-Planck-Institute for
               Meteorology. I started out doing smaller tasks like optimizing Python routines in terms of speed and
               memory usage. Later on I was able to work on my own projects, was in charge for data integrity and 
               developed a lot of useful tools for the scientists. Check out some of them in the <a href="../projects">projects</a> section.

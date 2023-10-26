@@ -2,6 +2,14 @@
   percentage: 95
   color: info
 
+- name: Meteorology
+  percentage: 95
+  color: info
+
 - name: Organizational Skills
+  percentage: 90
+  color: info
+
+- name: LaTex
   percentage: 90
   color: success
