@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi, I am **{{ site.author.name }}** :wave:<br>
 I am a PhD student in the field of **machine learning** at the Helmholtz-Zentrum Hereon near Hamburg, Germany in the 
 [model-driven machine learning](http://m-dml.org/) group. More specifically I am working with **neural networks** and 
 am interested in how we can use them to solve problems in the **earth system sciences**. 
@@ -18,7 +18,7 @@ the predictions of the ensemble members are often used to estimate the uncertain
 members are not diverse enough, the uncertainty estimate will be too low. This can lead to wrong decisions and
 potentially to wrong actions.
 
-Further I am interested in **high performance computing**, *data visualization* and **big data**. In my group I am 
+Further, I am interested in **high performance computing**, **data visualization** and **big data**. In my group I am 
 especially known for my coding skills, my organisational skills, and my ability to quickly implement new ideas. 
 
 

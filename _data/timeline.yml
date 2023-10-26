@@ -1,17 +1,40 @@
-- title: Student, Harvard CS
+- title: <span style="color:#007BFF">Open to work</span>
+  from: <span style="color:#007BFF">July 2024</span>
+  to: <span style="color:#007BFF">Open</span>
+  description: Make text like, if you are reading this and find my profile fitting for an opening you have in your 
+              company, please contact me.
+
+- title: PhD student at Helmholtz-Zentrum hereon
+  from: 2020
+  to: July 2024
+  description: TODO
+
+- title: Free data science contractor
+  from: 2020
+  to: 2021
+  description: Describe that I was asked by a B2B company from hamburg to do some data science tasks.
+
+- title: Data science consultant at AKRA GmbH
+  from: 2019
+  to: 2020
+  description: TODO
+
+- title: Max-Planck-Institute for Meteorology
+  from: 2016
+  to: 2019
+  description: Add that student worker and mainly data-science tasks were performed.
+
+- title: Research Vessel Cruise
+  from: 2019
+  to: 2019
+  description: Add pacific ocean, MPI-Met.
+
+- title: M.Sc. Meteorology at the University of Hamburg
+  from: 2017
+  to: 2019
+  description: TODO
+
+- title: B.Sc. Meteorology at the University of Hamburg
   from: 2014
   to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: TODO
