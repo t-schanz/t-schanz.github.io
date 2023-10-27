@@ -9,7 +9,7 @@ external_url:
 
 # List of posts I want to add
 
-- [ ] Plotting in Hereon Colors
+- [x] Plotting in Hereon Colors
 - [ ] Spaceship command prompt and Zshell
 - [ ] tmux theme
 - [ ] Proxy jump with ssh
