@@ -16,6 +16,6 @@ external_url:
 - [ ] Cookie cutter template for python projects
 - [x] Profiling with the mdml-tools profiler
 - [ ] How to document your code with sphinx (Complete setup I used for the mdml-tools)
-- [ ] How to upload a package to PyPi
+- [x] How to upload a package to PyPi
 - [x] Neuromatch Academy
 - [ ] Async download and extract packaged data
