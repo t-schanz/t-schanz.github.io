@@ -12,7 +12,7 @@ external_url:
 - [x] Plotting in Hereon Colors
 - [ ] Spaceship command prompt and Zshell
 - [ ] tmux theme
-- [ ] Proxy jump with ssh
+- [x] Proxy jump with ssh
 - [ ] Cookie cutter template for python projects
 - [x] Profiling with the mdml-tools profiler
 - [ ] How to document your code with sphinx (Complete setup I used for the mdml-tools)
