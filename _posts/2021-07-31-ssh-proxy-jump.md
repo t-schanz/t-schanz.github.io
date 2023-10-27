@@ -2,7 +2,7 @@
 title: Creating a SSH config for Port Forwarding and Proxy Jumps
 tags: [SSH, Linux]
 style: 
-color: primary
+color: success
 description: Tutorial on how to create a SSH config file that does easy port forwarding even with proxy jumps.
 external_url:
 ---
