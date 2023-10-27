@@ -2,7 +2,7 @@
 title: Profiling CUDA With the mdml-tools Profiler
 tags: [Python, PyTorch, PyTorch Lightning, Original]
 style: fill
-color: danger
+color: info
 description: Tutorial on how to use the mdml-tools profiler to profile your CUDA code and display the results in tensorboard.
 external_url:
 ---
