@@ -2,7 +2,7 @@
 title: Using Custom Color Maps in Matplotlib and Seaborn
 tags: [Python, Matplotlib, Seaborn, Original]
 style: fill
-color: primary
+color: danger
 description: A short tutorial on how to use custom color maps in matplotlib and seaborn.
 external_url:
 ---

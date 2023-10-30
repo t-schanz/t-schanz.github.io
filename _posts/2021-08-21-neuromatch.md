@@ -1,8 +1,8 @@
 ---
 title: Neuromatch Academy
 tags: [Python, PyTorch, Deep Learning, Summer School]
-style: 
-color: danger
+style: fill
+color: primary
 description: A short review of the Neuromatch Academy.
 external_url:
 ---

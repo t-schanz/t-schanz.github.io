@@ -1,7 +1,7 @@
 ---
 title: Uploading Code to PyPi
 tags: [Python, PyPi]
-style: 
+style: fill
 color: warning
 description: Tutorial on how to upload a python package to PyPi.
 external_url:
