@@ -2,7 +2,7 @@
 title: Two Python Async Use Cases
 tags: [Python, asyncio, ]
 style: fill
-color: primary-complementary
+color: info
 description: Demo on (a) how asycio can be used to download many small files and (b) how they can be extracted.
 external_url:
 ---
