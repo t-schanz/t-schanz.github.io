@@ -1,6 +1,6 @@
 ---
 title: Better Terminal Layout
-tags: [Windows, Zsh, Oh My Zsh, WSL, Linux, Spaceship, Nerd Font]
+tags: [Windows, Zsh, Oh My Zsh, WSL, Linux, Spaceship, Nerd Font, TMUX]
 style: fill
 color: light
 description: Collection of tools to have a prettier and more functional terminal.

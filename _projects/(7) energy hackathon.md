@@ -19,7 +19,7 @@ The task was to predict the electric load from four different cities one week ah
 electric load over three years.
 
 I approached the task by first investigating the data and especially finding patterns e.g. using fourier analysis. With 
-those findings it was easy to create a deep auto regressive model that got the periodic frequencies and the data
+those findings it was easy to create a deep auto-regressive model that got the periodic frequencies and the data
 as inputs and predicted the load with the highest accuracy of all teams. I maintained a low energy consumption during 
 training by not starting off with training neural networks directly but by first trying to get a deep understanding 
 of the data and then using this knowledge to create a model that is as simple as possible but as complex as necessary.
