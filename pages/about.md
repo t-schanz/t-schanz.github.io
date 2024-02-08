@@ -8,18 +8,16 @@ weight: 3
 # **About Me**
 
 Hi, I am **{{ site.author.name }}** :wave:<br>
-I am a PhD student in the field of **machine learning** at the Helmholtz-Zentrum Hereon near Hamburg, Germany in the 
-[model-driven machine learning](http://m-dml.org/) group. More specifically I am working with **neural networks** and 
-am interested in how we can use them to solve problems in the **earth system sciences**. 
+Currently diving deep into machine learning for my PhD in the 
+[model-driven machine learning](http://m-dml.org/) group at the Helmholtz-Zentrum Hereon, near Hamburg, Germany, I find myself at the crossroads of **neural networks** and **earth system sciences**. My quest? To pioneer training methods for **generative neural networks** that refine the statistical accuracy of predictions—both individually and collectively within an ensemble. This matters immensely as it directly influences our confidence in these predictions and, by extension, the decisions we make based on them.
 
-My PhD is about finding new ways to train **generative neural networks** with the goal of controlling statistical properties
-of not only the predictions of each ensemble member but also of the ensemble as a whole. This is important because
-the predictions of the ensemble members are often used to estimate the uncertainty of the prediction. If the ensemble
-members are not diverse enough, the uncertainty estimate will be too low. This can lead to wrong decisions and
-potentially to wrong actions.
+Beyond the core of my research, I'm passionate about **high performance computing**, unveiling stories hidden in data through **visualization**, and tackling the challenges of **big data**. My teammates might say I'm the go-to for coding prowess, seamless project coordination, and bringing new ideas to life with speed and precision.
 
-Further, I am interested in **high performance computing**, **data visualization** and **big data**. In my group I am 
-especially known for my coding skills, my organisational skills, and my ability to quickly implement new ideas. 
+<img src="../assets/images/FrontPic.jpg" class="wow animated fadeIn" data-wow-delay=".5s" >
+
+<p class="text-center">
+  {% include elements/button.html link="../assets/Schanz_CV_DataScience_for_webpage.pdf" text="Download Full CV" %}
+</p>
 
 
 <div class="row">

@@ -44,8 +44,8 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+#disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -74,3 +74,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - howTo.md
